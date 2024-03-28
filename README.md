@@ -22,6 +22,10 @@ Cursando Trilha de Formação Back-End em Alura pelo Programa Oracle One Next Ed
   Sou uma pessoa apaixonada por código, sempre em busca de aprendizado e atualização.
   Passei pela primeira etapa da migração de carreira e agora estou pronto para novas oportunidades. Espero que ao ler este texto, você possa conhecer um pouco mais sobre meus projetos. Aguardo ansiosamente o seu contato! Até logo!  
   Atualmente estou em busca de novas oportunidades, você pode saber um pouco mais sobre min em [!Sobre min](https://www.linkedin.com/in/gustavo-m-4693b4156/?original_referer=/)
+
+<h2>Experiência Profissional</h2>
+ Analista de suporte Help Desk ERP em  Bioinnova
+ Desenvolvedor Web DevSystem
   
  ###  Possuo Experiência em 🖥️
 
