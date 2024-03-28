@@ -1,6 +1,6 @@
 ### Um pouco sobre min 🌈
 <h1>Desenvolvedor Back-End Jr</h1>
-<h3>Aluno Do Programa Oracle The Next Education 🚀🚀🚀</h3>     
+<h3>Aluno Do Programa Oracle  Next Education 🚀🚀🚀</h3>     
 Cursando Analise Desevolvimento de Sistemas em Anhanguera <br>
 Cursando Trilha de Formação Back-End em Alura pelo Programa Oracle One Next Education <br><br><br><br><br><br>
 <div align="left">
