@@ -1,6 +1,6 @@
 ### Um pouco sobre min 🌈
 <h1>Desenvolvedor Back-End Jr</h1>
-<h3>Aluno Do Programa <bold>Oracle The Next Education 🚀🚀🚀</bold></h3>     
+<h3>Aluno Do Programa Oracle The Next Education 🚀🚀🚀</h3>     
 Cursando Analise Desevolvimento de Sistemas em Anhanguera <br>
 Cursando Trilha de Formação Back-End em Alura pelo Programa Oracle One Next Education <br><br><br><br><br><br>
 <div align="left">
@@ -11,9 +11,9 @@ Cursando Trilha de Formação Back-End em Alura pelo Programa Oracle One Next Ed
 
 <h2>Cursos Concluidos  ✅</h2>
   Desenvolvimento Web pela Fundação Bradesco <br><br>
-  Python Fundamentos Para Análise de Dados 3.0 pela bold>Data Science Academy <br><br>
+  Python Fundamentos Para Análise de Dados 3.0 pela Data Science Academy <br><br>
   Trilha Front-End Alura <br><br>
-  Lógica De programação com Javascript Alura <br><br>
+  Lógica De programação com Javascript em Alura <br><br>
 
 
   Um pouco Sobre o Gustavo 
