@@ -46,5 +46,4 @@ Cursando Trilha de Formação Back-End em Alura pelo Programa Oracle One Next Ed
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/gustavo-m-4693b4156?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 
-
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+<!---![snake gif](https://github.com/GustavoSilvaMarcal/GustavoSilvaMarcal/blob/output/github-contribution-grid-snake.svg)--->
