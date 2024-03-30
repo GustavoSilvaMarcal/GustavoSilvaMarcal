@@ -16,12 +16,13 @@ Cursando Trilha de Formação Back-End em Alura pelo Programa Oracle One Next Ed
   Lógica De programação com Javascript em Alura <br><br>
 
 
-  Um pouco Sobre o Gustavo 
-  Olá! Me chamo Gustavo, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, atuo como Desenvolvedor Web freelancer, além de possuir experiência como Analista de Suporte, com conhecimentos em ERP
-  Estou participando do Programa Oracle Next Education em parceria com a Alura, em busca de aprimorar minhas habilidades e me preparar para novos desafios atualmente cursando a trilha de Back-End. 
-  Sou uma pessoa apaixonada por código, sempre em busca de aprendizado e atualização.
-  Passei pela primeira etapa da migração de carreira e agora estou pronto para novas oportunidades. Espero que ao ler este texto, você possa conhecer um pouco mais sobre meus projetos. Aguardo ansiosamente o seu contato! Até logo!  
-  Atualmente estou em busca de novas oportunidades, você pode saber um pouco mais sobre min em meu perfil no  [LinkedIn](https://www.linkedin.com/in/gustavo-m-4693b4156/?original_referer=/)
+ <h1> Um pouco Sobre o Gustavo </h1> 
+Olá, sou Gustavo, um estudante entusiasta de Análise e Desenvolvimento de Sistemas, com experiência como Desenvolvedor Web freelancer e Analista de Suporte em sistemas ERP.<br>
+Atualmente, estou participando do Programa Oracle Next Education em parceria com a Alura, focado na trilha de Back-End, buscando aprimorar minhas habilidades e me preparar para novos desafios.<br>
+Sou apaixonado por código, sempre buscando aprendizado e atualização. Pronto para novas oportunidades .<br>
+
+
+você pode saber um pouco mais sobre min em meu perfil no  [LinkedIn](https://www.linkedin.com/in/gustavo-m-4693b4156/?original_referer=/)
 
 <h2>Experiência Profissional</h2>
  Analista de suporte Help Desk ERP em  Bioinnova <br><br>
